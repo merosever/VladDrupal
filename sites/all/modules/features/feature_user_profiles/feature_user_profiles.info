@@ -1,0 +1,4 @@
+name = User profiles (User profiles only!)
+core = 7.x
+package = User
+features[features_api][] = api:2

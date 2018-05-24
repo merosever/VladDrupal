@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the DS (DS content only!) feature.
+ */
+
+include_once 'features_ds.features.inc';

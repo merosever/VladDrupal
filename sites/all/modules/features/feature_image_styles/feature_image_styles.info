@@ -1,0 +1,4 @@
+name = Image styles (Image styles only!)
+core = 7.x
+package = Image styles
+features[features_api][] = api:2

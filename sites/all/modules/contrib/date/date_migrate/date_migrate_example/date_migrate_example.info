@@ -1,0 +1,10 @@
+name = Date Migration Example
+description = Examples of migrating with the Date module
+core = 7.x
+package = Features
+version = 7.x-2.9
+project = date
+datestamp = 1441727353
+features[features_api][] = api:2
+features_exclude[dependencies][features] = features
+files[] = date_migrate_example.migrate.inc

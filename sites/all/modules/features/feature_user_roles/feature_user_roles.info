@@ -1,0 +1,7 @@
+name = Roles (User roles only!)
+core = 7.x
+package = User
+features[features_api][] = api:2
+features[user_role][] = administrator
+features[user_role][] = Редактор
+features_exclude[dependencies][features] = features

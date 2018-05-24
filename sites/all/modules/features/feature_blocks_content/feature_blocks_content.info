@@ -1,0 +1,4 @@
+name = Blocks content (Blocks content only!)
+core = 7.x
+package = Blocks
+features[features_api][] = api:2

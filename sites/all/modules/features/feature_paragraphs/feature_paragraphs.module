@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Paragraphs (Paragraphs only!) feature.
+ */
+
+include_once 'feature_paragraphs.features.inc';

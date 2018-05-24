@@ -1,0 +1,10 @@
+name = Paragraphs (Paragraphs only!)
+core = 7.x
+package = Paragraphs
+features[features_api][] = api:2
+features[field_instance][] = paragraphs_item-test-field_image
+features[paragraphs][] = test
+features_exclude[dependencies][feature_content_type_article] = feature_content_type_article
+features_exclude[dependencies][features] = features
+features_exclude[dependencies][image] = image
+features_exclude[dependencies][paragraphs] = paragraphs

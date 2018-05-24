@@ -1,0 +1,11 @@
+name = Content type page (Page settings only!)
+core = 7.x
+package = Content types
+dependencies[] = node
+dependencies[] = text
+features[features_api][] = api:2
+features[field_instance][] = node-page-body
+features[node][] = page
+features_exclude[dependencies][features] = features
+features_exclude[dependencies][feature_content_type_article] = feature_content_type_article
+features_exclude[field_base][body] = body

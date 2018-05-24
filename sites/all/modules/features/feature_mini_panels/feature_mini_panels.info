@@ -1,0 +1,4 @@
+name = Mini panels (Mini panels only!)
+core = 7.x
+package = Panels
+features[features_api][] = api:2

@@ -1,0 +1,4 @@
+name = Menus links (Menus links only!)
+core = 7.x
+package = Menus
+features[features_api][] = api:2

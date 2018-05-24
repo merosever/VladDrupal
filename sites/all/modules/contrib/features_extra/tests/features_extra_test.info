@@ -1,0 +1,8 @@
+name = Features Extra test feature
+description = Test feature for Features Extra.
+core = 7.x
+package = Testing
+version = 7.x-1.0
+project = features_extra
+datestamp = 1439376840
+features[features_api][] = api:2

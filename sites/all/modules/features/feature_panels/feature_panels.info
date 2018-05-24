@@ -1,0 +1,4 @@
+name = Panels (Panels only!)
+core = 7.x
+package = Panels
+features[features_api][] = api:2

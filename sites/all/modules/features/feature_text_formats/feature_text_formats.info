@@ -1,0 +1,9 @@
+name = Text formats (Text formats only!)
+core = 7.x
+package = Formats
+dependencies[] = filter
+features[features_api][] = api:2
+features[filter][] = filtered_html
+features[filter][] = full_html
+features[filter][] = plain_text
+features_exclude[dependencies][features] = features

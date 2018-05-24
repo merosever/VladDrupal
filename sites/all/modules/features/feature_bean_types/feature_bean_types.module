@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Bean types (Bean types only!) feature.
+ */
+
+include_once 'feature_bean_types.features.inc';

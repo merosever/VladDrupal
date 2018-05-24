@@ -1,0 +1,11 @@
+name = Clientside Validation Test Field Validation
+description = Feature with content type to test Clientside Validation Field Validation
+core = 7.x
+package = Features
+version = 7.x-1.42
+project = clientside_validation
+datestamp = 1452085168
+features[ctools][] = field_validation:default_field_validation_rules:2
+features[features_api][] = api:2
+features_exclude[dependencies][ctools] = ctools
+features_exclude[dependencies][features] = features
